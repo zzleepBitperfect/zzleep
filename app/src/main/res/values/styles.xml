@@ -1,0 +1,138 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:colorBackground">@color/colorLight</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Labels -->
+    <style name="Title">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Paragraph">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
+
+    <style name="TextInfo">
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <!-- Controles -->
+    <style name="Button">
+        <item name="android:background">@drawable/button_default</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:disabledAlpha">0</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/colorButtonDisabled</item>
+    </style>
+
+    <style name="ButtonFacebook">
+        <item name="android:background">@drawable/button_facebook</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="ButtonMenu">
+        <item name="android:background">@drawable/button_default</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="InputTransparent" parent="Input">
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="Input">
+        <item name="android:background">@drawable/bg_default_input</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+
+    <style name="InputLabel">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/colorTextInfo</item>
+    </style>
+
+    <style name="InputValue">
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="InputIcon">
+        <item name="android:background">@null</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_margin">0dp</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:minWidth">25dp</item>
+        <item name="android:gravity">center|center_vertical</item>
+    </style>
+
+    <!--Menu principal-->
+    <style name="MainMenu">
+        <item name="android:background">@drawable/bg_menu</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <!--Menu paraderos-->
+    <style name="menuParaderos">
+        <item name="android:background">@drawable/bg_float_menu</item>
+    </style>
+
+    <style name="menuHead">
+        <item name="android:background">@drawable/bg_float_menu_head</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <!--Welcome-->
+    <style name="WelcomeForm">
+        <item name="android:background">@drawable/bg_welcome_form</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="WelcomeFormItem" parent="Input">
+        <item name="android:background">@drawable/bg_welcome_input</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">right</item>
+    </style>
+
+    <style name="WelcomeFormSpinner" parent="Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+        <item name="android:background">@drawable/bg_welcome_input</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:radius">@dimen/border_radius</item>
+    </style>
+
+    <style name="TextAppearance.FontPath" parent="android:TextAppearance">
+        <item name="fontPath">fonts/RobotoCondensed-Bold.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontIcon" parent="android:TextAppearance">
+        <item name="fontPath">fonts/icomoon.ttf</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

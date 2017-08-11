@@ -1,0 +1,8 @@
+<resources>
+	<declare-styleable name="StopItem">
+		<attr name="stopTitle" format="string"/>
+		<attr name="stopAddress" format="string"/>
+		<attr name="stopIcon" format="reference"/>
+		<attr name="active" format="boolean"/>
+	</declare-styleable>
+</resources>

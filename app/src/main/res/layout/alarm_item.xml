@@ -1,0 +1,33 @@
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_height="140dp"
+android:layout_width="110dp"
+android:layout_margin="5dp"
+android:background="@drawable/bg_float_menu"
+android:orientation="vertical"
+android:padding="6dp">
+
+<ImageView
+	android:id="@+id/alarmIcon"
+	android:layout_width="80dp"
+	android:layout_height="80dp"
+	android:layout_gravity="center"
+	android:layout_margin="5dp"
+	android:src="@mipmap/icon_alarma1"/>
+
+<TextView
+	android:id="@+id/alarmName"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:gravity="center"
+	android:text="Saico"
+	android:textSize="10sp"/>
+
+<TextView
+	android:id="@+id/alarmPrice"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:gravity="center"
+	android:text="Gratis"/>
+</LinearLayout>

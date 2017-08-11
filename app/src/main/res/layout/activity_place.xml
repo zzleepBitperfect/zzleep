@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/activity_alarms_list"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:background="@color/colorButtonHover"
+	tools:context="pe.geekadvice.zzleep.PlaceActivity">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/colorWhite"
+		android:orientation="horizontal"
+		android:padding="10dp">
+
+		<Button
+			android:id="@+id/btnBack"
+			style="@style/TextAppearance.FontIcon"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:layout_gravity="center_vertical"
+			android:layout_marginRight="10dp"
+			android:background="@mipmap/as"
+
+			android:textColor="#FFFFFF" />
+
+		<LinearLayout
+			android:id="@+id/findPlace"
+			style="@style/Input"
+			android:layout_width="match_parent"
+			android:layout_height="40dp"
+			android:orientation="horizontal">
+
+			<EditText
+				android:id="@+id/txtSearchPlace"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				style="@style/InputTransparent"
+				android:lines="1"
+				android:padding="0dp"
+				android:layout_gravity="center_vertical"
+				android:layout_weight="1"
+				android:singleLine="true"
+				android:maxLines="1"
+				android:imeOptions="actionDone"
+				android:hint="¿A dónde vamos?"/>
+
+			<TextView
+				android:id="@+id/textView2"
+				style="@style/InputIcon"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:text="@string/icon_search"
+				android:textAppearance="@style/TextAppearance.FontIcon" />
+			<!--
+			<Button
+				android:id="@+id/btnSearch"
+				style="@style/InputIcon"
+				android:layout_width="30dp"
+				android:layout_height="30dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginRight="10dp"
+				android:background="@drawable/button_rounded"
+				android:text="@string/icon_search"
+				android:textColor="#FFFFFF"
+				/>-->
+		</LinearLayout>
+	</LinearLayout>
+	<!--	<ScrollView
+			android:layout_width="wrap_content"
+			android:layout_height="0dp"
+			android:layout_gravity="center_horizontal"
+			android:layout_weight="1">-->
+
+	<ListView
+		android:id="@+id/listPlaces"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
+	<!--</ScrollView>-->
+</LinearLayout>

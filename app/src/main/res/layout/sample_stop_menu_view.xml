@@ -1,0 +1,120 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	style="@style/menuParaderos"
+	android:layout_width="match_parent"
+	android:layout_height="370dp"
+	android:layout_margin="10dp"
+	android:orientation="vertical"
+	   >
+
+	<LinearLayout
+		style="@style/menuHead"
+		android:layout_width="match_parent"
+		android:layout_height="50dp"
+		android:gravity="center"
+		android:padding="10dp"
+		android:layout_marginBottom="10dp"
+		android:orientation="horizontal">
+
+		<ImageView
+			android:layout_width="25dp"
+			android:layout_height="match_parent"
+			android:src="@mipmap/icon_targets"
+			android:layout_marginRight="10dp"
+			android:id="@+id/imageView"/>
+
+		<TextView
+			android:layout_height="match_parent"
+			android:layout_width="0dp"
+			android:gravity="center"
+			android:text="Paraderos/Destinos"
+			android:layout_weight="1"
+			android:id="@+id/textView"/>
+
+		<Button
+			style="@style/InputIcon"
+			android:id="@+id/btnBack4"
+			android:textAppearance="@style/TextAppearance.FontIcon"
+			android:text="@string/icon_cross"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:src="@mipmap/ic_launcher"/>
+	</LinearLayout>
+
+	<LinearLayout
+		style="@style/WelcomeForm"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:visibility="gone"
+		android:orientation="horizontal">
+		<TextView
+			android:textAppearance="@style/TextAppearance.FontIcon"
+			android:text="@string/icon_search"
+			style="@style/InputIcon"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:src="@mipmap/ic_launcher"
+			android:id="@+id/textView2"/>
+
+		<EditText
+			style="@style/InputTransparent"
+			android:clickable="false"
+			android:layout_width="match_parent"
+			android:layout_height="35dp"/>
+	</LinearLayout>
+	<!-- Paradas -->
+	<ListView
+		android:id="@+id/listUserStops"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:paddingBottom="10dp"
+		android:paddingLeft="10dp"
+		android:paddingRight="10dp" />
+
+	<!--<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_marginBottom="10dp">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_margin="10dp"
+			android:orientation="vertical">
+
+			<pe.geekadvice.zzleep.components.StopItem
+				app:stopTitle="Casa"
+				app:stopAddress="Toca para añadir"
+				app:active="false"
+				app:stopIcon="@mipmap/icon_house"
+				android:id="@+id/iconAlarma"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"/>
+			<pe.geekadvice.zzleep.components.StopItem
+				app:stopTitle="Trabajo"
+				app:stopIcon="@mipmap/icon_work"
+				android:id="@+id/iconAlarma2"
+				app:stopAddress="Toca para añadir"
+				app:active="true"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"/>
+			<pe.geekadvice.zzleep.components.StopItem
+				app:stopTitle="Centro de estudios"
+				app:stopIcon="@mipmap/icon_college"
+				android:id="@+id/iconAlarma3"
+				app:stopAddress="Toca para añadir"
+				app:active="true"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"/>*/
+			<ListView
+				android:id="@+id/listPlaces"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"/>
+		</LinearLayout>
+	</ScrollView>-->
+
+</LinearLayout>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorButton">#FF57C6D6</color>
+	<color name="colorButtonHover">#FF6ed2e1</color>
+	<color name="colorButtonDisabled">#99CEECF5</color>
+
+	<color name="colorPrimary">#FF57C6D6</color>
+	<color name="colorPrimaryDark">#FF222222</color>
+	<color name="colorAccent">#2c9bab</color>
+	<color name="colorLight">#FFCEECF5</color>
+	<color name="colorWhite">#FFFFFFFF</color>
+	<color name="blackOverlay">#66000000</color>
+	<color name="colorTextInfo">#FF999999</color>
+	<color name="colorTextError">#c73e3e</color>
+</resources>

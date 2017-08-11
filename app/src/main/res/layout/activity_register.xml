@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	style="@style/AppTheme"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/bg_welcome"
+	tools:context="pe.geekadvice.zzleep.RegisterActivity">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:padding="20dp">
+
+		<TextView
+			style="@style/Title"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+			android:gravity="center"
+			android:text="@string/register_title"
+			android:textAppearance="@style/TextAppearance.FontPath"/>
+
+		<android.support.v7.widget.CardView
+			android:layout_width="80dp"
+			android:layout_height="80dp"
+			android:layout_gravity="center"
+			android:layout_marginTop="20dp"
+			android:background="@drawable/bg_perfil_image"
+			app:cardCornerRadius="8dp">
+
+			<ImageView
+				android:id="@+id/imageAvatar"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:scaleType="fitCenter"
+				android:src="@mipmap/avatar_default"/>
+		</android.support.v7.widget.CardView>
+
+		<TextView
+			style="@style/TextInfo"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:text="@string/register_perfil_action"/>
+
+		<pe.geekadvice.zzleep.components.InputLabel
+			android:id="@+id/regName"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:inputType="textCapWords"
+			app:textHint="Nombres"
+			app:textLabel="Nombres:"/>
+
+		<pe.geekadvice.zzleep.components.InputLabel
+			android:id="@+id/regLastName"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:inputType="textCapWords"
+			app:textHint="Apellidos"
+			app:textLabel="Apellidos:"/>
+
+		<pe.geekadvice.zzleep.components.InputLabel
+			android:id="@+id/regEmail"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:inputType="textEmailAddress"
+			app:textHint="E-mail"
+			app:textLabel="E-mail"/>
+
+		<pe.geekadvice.zzleep.components.InputLabel
+			android:id="@+id/regPassword"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:inputType="textPassword"
+			app:textHint="Password"
+			app:textLabel="Password"/>
+
+		<Button
+			android:id="@+id/btnRegisterNext"
+			style="@style/Button"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="5dp"
+			android:text="Crear mi perfil"/>
+
+		<LinearLayout
+			android:id="@+id/loginFacebook"
+			style="@style/ButtonFacebook"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+			android:gravity="center"
+			android:orientation="horizontal">
+
+			<TextView
+				android:id="@+id/textView4"
+				style="@style/InputIcon"
+				android:layout_width="25dp"
+				android:layout_height="match_parent"
+				android:fontFamily="font"
+				android:text="@string/icon_facebook"
+				android:textAppearance="@style/TextAppearance.FontIcon"
+				android:textColor="@color/colorWhite"/>
+
+			<TextView
+				android:id="@+id/labelBtnFcebook"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:gravity="center"
+				android:text="Conectar con facebook"
+				android:textColor="@color/colorWhite"/>
+		</LinearLayout>
+
+		<TextView
+			android:id="@+id/labelFbInfo"
+			style="@style/TextInfo"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:text="Vincula tu cuenta Zzleep! con facebook"/>
+
+	</LinearLayout>
+
+</ScrollView>

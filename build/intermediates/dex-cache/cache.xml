@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/ff07235ed9c85bc37d436662c145f9293d0f36bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d03fced4dc8adc5f7888c7d31047f9289e02a458/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/1ce1dde294b197d5d694327135384b2759cab646/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eccd894efae8f36e91907f5430116f9086e5df64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/97a1af078acca5418211878395a5bd1ea75edae4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e5c9d53590979eed3c3940f091fc6f2ea1d7f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/0adb4f8598a91789471942684491eba6a39268ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35a49583f86b1ef64c3e368ef11db7ff1e7eccbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.github.japgolly/svg-android/2.0.0/ec3105fde82bef0d2d7db74065b862ed35f9d15a/svg-android-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3105fde82bef0d2d7db74065b862ed35f9d15a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/svg-android-2.0.0_86535f91b4786e9ea3c7cf76af352f93589abb37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/ec37e34bab45e2c55e6273b1da48bc38a15288c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2dc71e2c3c3737cfcac6ad7896d5e47175b215e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/053a37fb73e165ccf2ab141e9d516bb9d8caf48d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f16377a1586581d62297a12cde50d9209dc98cf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/eb5c952ce43675e2d151b81647ecc03234af1bbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_926545b6ad117fcb3df03b350d8d15fdd1416774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/8b5953e6d97e2c944b7077b5b3732d652dbe82f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1de096630912f2a7dec14806ab5ac0d648651bdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_3648bf2bb81ee1072333a3a5576d6bdf3ac78eae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/95c27ca90e18b0de432f970dcc7c261f8dbc2d76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6354344f44aef26f36b376e066bb6b4b9347872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/13d705468d73ddcda0c5276dffd2cd52f8bac3d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_722fce00565fde9f190753fd2e2eba4ee059f871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_3472c110909aa72ec3aed163aafaba0f58f2b7ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/2a50c71f727542c013832830136a0a12c3c2f84e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09c29a057c57683abc8d5d5567a767197f98d70a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/cf0e7bf4faaae97f5ea12cae8afaf36073dea7ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dcf28e39d4aebaf2ac038614ad97455182d5b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/1227dc0b9329d06e35ec6d8f381e18ff096ef2f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2f064ea1cd2a3ea8feda5afdc4cc34632bc5e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/c0019a0fd5d895150983ae8669bd27e4ede71f01/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_45c35998e8ae61877d5faade145a755b3e384567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/3c304d70f42f832e0a86d45bd437f692129299a4/jackson-core-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-asl-1.9.13_638c9b0bfb4f6ac9350d68a1c143a22fb623c5b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/397880b15d907e373fc5be0a39c9be633809fcf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1054201b28f6c7ce6ff7abb703e18417e77b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/a13dee3c7c1a531ad7448db8f17a51a9e8526610/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c82cff862c6099e21700fe856a72fab86a6a999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/a0773b1b6000f3646f20bf5fad8e9bc32612ae0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20172fa93ba419104d4fd00015f137162af8cc08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/5ee30e0c728225bae77461309951a7f4dffa0df3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f141ae059a5dfc44ecedd7c65bdcee6ef9038770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_23aeb8f23c6ddbcdee8589f16c64369623086b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/d03f56b1a21e7df86fcdd82bb68e6a5c72f79514/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3ff72673a045f3cdcd31babf003d3cd71ce4f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/44cdb2888213c66848aa2bf0584b5b05e0a5041e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_444367aa72cf42e3f21531f2c9ff4763ec60608c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_dee688d8cd8f986654867407794189dbddfaaf1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/ea71aa42649755e4e231e55c279f622ef58b2254/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd399e51a72893224e558a69454fa47121a71ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/0e8bcbc93e212de73897360047f6b8daf0221ceb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8008f0b878ad4626c726d1b70a670d935e23e2b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/fdff1dca5c7130a69d56b8a417ae6d88f2e6b3ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e38956b608bac84974bc801711dae83826f034e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/17274c8429a5a8117dfbe30746599b50494362ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cefe715b25ca73debc11397cf4c16fc31fc61ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/be4fe8b5dfa4923895a67238a50f28316b4d98b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f404d343fffe35084230a9e671a862e9612020cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/e2bcbceb2d7f54bb746b6b8d34b6469a1f90aa22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f0759c3be5bc60813fb9100bd409f4b0d84b076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/39ed4d2d9bda6c99c4b5dadd003db50bd5d2930c/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2dda1eedec493ee421ad26b3da4e7e47424007df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2957c58abf2458ed4caf4e53a9016ebd4b2f21b3">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_022b8c2e58287e30b80a09f3867603812334a8c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/f9646e63fad2dceac53b268f438ce3b49b03229e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3822cc7bfd411796a488ade8caaece1a92113b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/39ed4d2d9bda6c99c4b5dadd003db50bd5d2930c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c649cdac6de8bb43d2c1ab12e5c6ae520a070528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/880253b164fc5884dfc24466ac97c883b98d8fe8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3122b137be5e8928bf59b06e420b78e7c80e70de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/a093ff68ef123993e71a15d0bd7d18f5b35a24fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_525d9c689b2828bb1fedfe2b5717caf63fd16533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/e2bcbceb2d7f54bb746b6b8d34b6469a1f90aa22/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7cf5065d613fc4affe77c5ec8d4104adb37aabb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/46c32df1aacc69a34d113a59c859466f7eb2aed5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67a2047fbc340975f81cbf432a393123ebd86a3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/ec63daa0e15e06ee6b059cfd1a4eee824074a60d/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a3b24c22206db5b25af418d287828267cd0faab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/a9fce27cd1159fd2b533dc78fb0710375581abb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96c964bca4c9dc4ee74c670c14d53a631b6f8ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/b81af64b6fd3f6a043c84ce44b4cccae6d09a33c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfc0e36f92ed3e25d3f3e3c7212fb10542c2b69b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/0de7517fb0c044d58034da722ac23f92492b2cd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f77bc3b8027e98ecf1c23fdcf37e61618ee5945a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/83fd206eb9ef1ff9243cbc147ca4153a25e507c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b71e5a5688e061fa49e485ad4cf4fe860e25ffa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/fa725c07078522627cda9254777dcc33aef088d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8429e069eaba01e2f0453da3d654bcc67c9092e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/66cb167912903f2f50c7357af82e357cf3d48672/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a6a75a8760a497e48bd4afe443ea4a57eb8f4ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/87707c9d24f85f5e93c24bdc1ae2cb5b04cc6c46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1c0bdc11088784db79dfb6725dff83db668875c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7/jackson-mapper-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-mapper-asl-1.9.13_0d797dce74d234ed82219bb8e9dc39e7d8f7548e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/1df39329d21289a8bbb1957ca5ee4ef68f27a06d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_399878773b20ca28c4d01c7c7b365b382f953853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/a15bd4db78c4f8f8fd898481e4d755b7bab4aa42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_011dba49170bb06c0097623320be096de9011fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/c0019a0fd5d895150983ae8669bd27e4ede71f01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_579db114a896ae07073b1f97872f89c45c89f3aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/ec63daa0e15e06ee6b059cfd1a4eee824074a60d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_898d689aceffe6a5440bdaf2c95bbf8f9e7802ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/94b3271ef83e13edea3f3ef4edbd6aa06925203e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b864c2445f15dea45a40b9440cabf657c06b4c8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/c2aeb1483ccb3d35390d271c5f68162f03cf38f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2e82bd8757b9cbbdcaa6d795344802f9ca94cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/3ea9e56e2224c19e44d3f8ccd12377088e6703d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8de98e527a24b18c56165a708ccb5de330f7b4d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/0309f5764db79ed3bf1e76a16acbecc1f0e9da8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2f31b1363eede53c069fe5ac42aff12f8dd2bd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/f2de5dd0c5635274b33ca9e13fb106dbeb8e683d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_233d91d2a4aae03ae74f32deba63d68037728269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/31c39ee94cbb05478dac30e2eaf4a53597b2aec7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c671be0916d22aec05b653b019df3d83bc455f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_5fcae495b64023cacea92296dfe852109821b427/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/0fd002c1347393d6961c3224aaab5bf5adab6011/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cfbcf8d28b1713fdb736ddafa1207124092890e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/4d146c99c44f111f7968daaf70efef36b40ac871/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb34a2d634f5e1fbc4d98bb09599efb4120ff193/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/74fa6d27cb36895891a453846898c10df0eddf9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d118ffefeea633d22d2f5dd67b7a021f9c687911/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/5efe26d7cb7bcf228904b1dce8c62c82d16a982a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0c6aae873013e7a77b859079299534214b50365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/d406984b813ab2eac44f4b8d67b20e7d09f22720/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfc83376140ed244bccee7d406473112c6efe164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/6f6caf3ff9a8583d646a3b41edf4a9f8eb945904/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc475657c0d728419655fddef9785064d8df7c20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/f525f943b51ca710385ff026d26e96485d525548/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fafc13b7b119a40d351905f63f930470e6b3d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/42d15f9c8694f448884f9cd5d8cd09166ce6cdd2/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_1548f051ac9acf333986bcff60a4f7cfe303102a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/09f88adc415ed64520c58e45852d7003978b0855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad3eb7c522b2af7226ca7ae9e094fe9de4813f09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/d5cf882bb7ae4cb4fdce388e65819d99ae4b9120/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5beda56220ed9674f6bafc839efa6b6af7407430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/87f8577266d7cdc502cc981a52db8f72969fccc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b94e3bbde183e2e28534fd27805ec8d01bf8973c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/bf167b6e260cbc710b0a05446a5352e240f28b57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbcf0950015a99e5ee62bb364cd608b85782ed70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/63c40c1e134477b08a2a6d30a3a0030568206189/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68eda9935aa68ff4e68e9c8bab616133d13474d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/83e190b773e011f8c5d431fb7807223a73a50ae2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_480be1495827f9d661f9820a01217bd71458ef2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/4f5116ab62ac5cde72937b8a9a9ab3256ede5631/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c26b87124a204861d6c371762809c9536b36fbbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/42d15f9c8694f448884f9cd5d8cd09166ce6cdd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7278e4bf29564b34b9849fcb0b48787aa0676f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/f49bb21e06e6c3d2b59a74e431e7b727daa9ae1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a97f614f6d4b1b29c3f527b0d5f4f9e30fbe2c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/9244488b4e4b9417b438d4900fe33c4d37472e27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d18c7a9c6f5621a28bfc20084417dc5065e7e77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/e516cdd0bc0a5e75b2bec41e433bc7faea917dbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58d640ae8aa1023d488b5bba946710b54149ed08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/04a8d192238276a07dad5ba06d1718776272da3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_189e4d280b16d683734396c0155295aa9ce8e78a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/a15bd4db78c4f8f8fd898481e4d755b7bab4aa42/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6dc4bfc779b99f69b66873a56fa0418219e2bd00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.android/build-cache/286e28c6571c57cb53669ea129d1a872cb1fa5e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52020740a80a3c2804880b9db2f30177f2d8fe5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_48d64489a2518cd34d59b0b77f82de02e5461014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c63b584f6cc8e51d21e4ecc5ee55300257c084d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yaguar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/yaguar/Proyectos/android/zzleep-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_aec8e7e107a880e9205874d6c64172bd3154f870/classes.dex" />
+    </item>
+
+</items>

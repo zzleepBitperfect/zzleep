@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="areas">
+		<item>PE(+51)</item>
+		<item>MX(+52)</item>
+		<item>AR(+54)</item>
+		<item>BR(+55)</item>
+		<item>EEUU(+1)</item>
+	</array>
+</resources>

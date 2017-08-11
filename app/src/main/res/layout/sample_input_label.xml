@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:app="http://schemas.android.com/apk/res-auto"
+			  android:layout_width="match_parent"
+			  android:layout_height="wrap_content"
+			  android:layout_marginBottom="5dp"
+			  android:background="@drawable/bg_default_input"
+			  android:orientation="horizontal"
+			  android:paddingTop="4dp"
+			  android:paddingBottom="4dp"
+			  android:paddingLeft="15dp"
+			  android:paddingRight="10dp">
+
+	<FrameLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:minHeight="36dp"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/inputLabel"
+			style="@style/InputLabel"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/dummy_content"/>
+
+		<EditText
+			android:id="@+id/inputValue"
+			style="@style/InputValue"
+			android:layout_marginTop="@dimen/value_margin_top_full"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:hint="@string/dummy_content"/>
+	</FrameLayout>
+
+	<Button
+		android:id="@+id/btnClean"
+		style="@style/InputIcon"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent"
+		android:text="@string/icon_delete"
+		android:textAppearance="@style/TextAppearance.FontIcon"/>
+</LinearLayout>

@@ -1,0 +1,84 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginBottom="5dp"
+	android:background="@drawable/button_default"
+	android:orientation="horizontal"
+	android:padding="10dp"
+	android:descendantFocusability="blocksDescendants" >
+
+	<ImageView
+		android:id="@+id/iconStop"
+		android:layout_width="40dp"
+		android:layout_height="40dp"
+		android:layout_marginRight="5dp"
+		android:src="@mipmap/icon_targets"/>
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_weight="0.25"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/stopTitle"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Nombre destino"
+			android:ellipsize="end"
+			android:maxLines="1"
+			android:textSize="14sp"/>
+
+		<TextView
+			android:id="@+id/stopAddress"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_margin="0dp"
+			android:ellipsize="end"
+			android:maxLines="1"
+			android:text="Toca para elegir una dirección"
+			android:textSize="11sp"/>
+	</LinearLayout>
+
+	<FrameLayout
+		android:id="@+id/parentStopButton"
+		android:clickable="true"
+		android:paddingLeft="10dp"
+		android:paddingRight="10dp"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent">
+	<ImageButton
+		android:id="@+id/stopActive"
+		android:layout_width="35dp"
+		android:layout_height="match_parent"
+		android:adjustViewBounds="false"
+		android:background="@null"
+		android:cropToPadding="false"
+		android:scaleType="fitCenter"
+		android:src="@mipmap/switch_on"/>
+
+	</FrameLayout>
+
+	<ImageView
+		android:id="@+id/ibAudio"
+		android:layout_width="42dp"
+		android:layout_height="match_parent"
+		android:background="@mipmap/btn_audio"
+		app:srcCompat="@drawable/com_facebook_button_send_background" />
+
+	<android.support.v7.widget.CardView
+		android:id="@+id/btnAlarm"
+		android:layout_width="40dp"
+		android:layout_height="match_parent"
+		android:layout_marginLeft="10dp"
+		app:cardCornerRadius="8dp">
+		<ImageView
+			android:id="@+id/iconAlarm"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:scaleType="fitCenter"
+			android:src="@mipmap/alarma_gallo"/>
+	</android.support.v7.widget.CardView>
+</LinearLayout>

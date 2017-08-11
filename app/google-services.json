@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978332821447",
+    "firebase_url": "https://zzleep-4e2b1.firebaseio.com",
+    "project_id": "zzleep-4e2b1",
+    "storage_bucket": "zzleep-4e2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978332821447:android:defab2d13dc24651",
+        "android_client_info": {
+          "package_name": "pe.geekadvice.zzleep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978332821447-uef6vqrgobi3icf5375uu7e7mgldpdsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAqRnmmAxYihceNcNVj_ib_gksDp4y80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

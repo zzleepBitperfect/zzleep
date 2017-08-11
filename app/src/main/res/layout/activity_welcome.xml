@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	style="@style/AppTheme"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/bg_welcome"
+	tools:context="pe.geekadvice.zzleep.WelcomeActivity">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:paddingLeft="30dp"
+		android:paddingRight="30dp">
+
+		<TextView
+			style="@style/Title"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="50dp"
+			android:gravity="center"
+			android:text="@string/welcome_title"
+			android:textAppearance="@style/TextAppearance.FontPath"/>
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:text="@string/welcome_description"/>
+
+		<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="80dp"
+			android:layout_gravity="center"
+			android:layout_margin="20dp"
+			android:src="@mipmap/logo_big"/>
+
+		<LinearLayout
+			style="@style/WelcomeForm"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal">
+
+			<Spinner
+				android:id="@+id/listAreas"
+				style="@style/WelcomeFormItem"
+				android:layout_width="120dp"
+				android:layout_height="match_parent"
+				android:layout_marginRight="10dp"/>
+
+			<EditText
+				style="@style/WelcomeFormItem"
+				android:id="@+id/inputNumber"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1.2"
+				android:gravity="right|center"
+				android:hint="@string/hint_phone"
+				android:inputType="phone"/>
+		</LinearLayout>
+
+		<TextView
+			style="@style/TextInfo"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:text="@string/welcome_hint"/>
+
+		<Button
+			android:id="@+id/btnWelcomeNext"
+			style="@style/Button"
+			android:enabled="false"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/labelNext"/>
+
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<LinearLayout
+				android:id="@+id/btnLogin"
+				android:layout_width="wrap_content"
+				android:layout_height="30dp"
+				android:layout_marginTop="10dp">
+				<TextView
+					style="@style/InputIcon"
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:text="@string/icon_check"
+					android:textAppearance="@style/TextAppearance.FontIcon"/>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:gravity="center_vertical"
+					android:textAllCaps="true"
+					android:textSize="13sp"
+					android:text="Iniciar sesión"/>
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/btnWelcomeJump"
+				android:layout_width="wrap_content"
+				android:layout_alignParentRight="true"
+				android:layout_height="30dp"
+				android:layout_marginTop="10dp">
+
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:gravity="center_vertical"
+					android:textAllCaps="true"
+					android:textSize="13sp"
+					android:text="@string/label_jump"/>
+
+				<TextView
+					style="@style/InputIcon"
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:text="@string/icon_chevron_right"
+					android:textAppearance="@style/TextAppearance.FontIcon"/>
+			</LinearLayout>
+		</RelativeLayout>
+	</LinearLayout>
+
+</ScrollView>

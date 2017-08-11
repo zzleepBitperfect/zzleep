@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/activity_audio"
+	android:orientation="vertical"
+	android:background="@drawable/bg_welcome"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="pe.geekadvice.zzleep.AudioActivity">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/colorWhite"
+		android:orientation="horizontal"
+		android:padding="10dp"
+		android:id="@+id/linearLayout2">
+
+		<Button
+			android:id="@+id/btnBack"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:layout_marginRight="10dp"
+			android:background="@mipmap/as"
+
+			android:textColor="#FFFFFF" />
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Audio de ruta"/>
+
+
+
+	</LinearLayout>
+	<ListView
+		android:id="@+id/listAudios"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/linearLayout2" />
+	<GridLayout
+		android:id="@+id/popupcompraAudio"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@mipmap/popup"
+		android:visibility="invisible">
+
+		<LinearLayout
+			android:layout_height="30dp"
+			android:layout_marginLeft="30dp"
+			android:layout_marginTop="190dp">
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+
+				<TextView
+					android:id="@+id/txNombre"
+					android:layout_width="221dp"
+					android:layout_height="match_parent"
+					android:text="Manco Alarm" />
+
+				<TextView
+					android:id="@+id/txCosto"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:text="S/.1.99"
+					android:textColor="#689f38"/>
+
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_height="80dp"
+			android:layout_column="0"
+			android:layout_marginLeft="30dp"
+			android:layout_row="1">
+
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="15dp">
+
+				<TextView
+					android:id="@+id/textView3"
+					android:layout_width="292dp"
+					android:layout_height="wrap_content"
+					android:textStyle="italic"
+					android:text="Presione  ''continuar'' para proseguir con la compra." />
+			</LinearLayout>
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_column="0"
+			android:layout_marginLeft="30dp"
+			android:layout_row="2">
+
+			<ImageView
+				android:id="@+id/imageView2"
+				android:layout_width="160dp"
+				android:layout_height="40dp"
+				android:layout_marginRight="10dp"
+				android:background="@mipmap/googleplay"
+				/>
+
+			<ImageButton
+				android:id="@+id/btContinuar"
+				android:layout_width="122dp"
+				android:layout_height="40dp"
+				android:background="@mipmap/continuar"
+				 />
+		</LinearLayout>
+
+	</GridLayout>
+	<ProgressBar
+		android:id="@+id/progressBar1"
+		style="?android:attr/progressBarStyleLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="200dp"
+		android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.0">
+  <wpt lat="-12.1200" lon="-77.0033"><ele>1374</ele><name>test</name><sym>testSym</sym></wpt>
+
+  <trk>
+    <name>Barrett Spur 1</name>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>9900ff</color>
+      </line>
+    </extensions>
+    <trkseg>
+      <trkpt lat="-12.1210" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1220" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1230" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1240" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1250" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1260" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1270" lon="-77.0033"></trkpt>
+      <trkpt lat="-12.1280" lon="-77.0033"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

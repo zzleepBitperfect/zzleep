@@ -1,0 +1,55 @@
+<resources>
+    <string name="dummy_content">DummyLabel</string>
+
+    <string name="app_name">Zzleep!</string>
+    <string name="title_activity_main">Zzleep!</string>
+
+    <string name="title_activity_alarm">Alarma Zzleep!</string>
+
+
+    <string name="register_title">Crea tu perfil</string>
+    <string name="register_perfil_action">Toca para añadir</string>
+
+    <string name="welcome_description">La app que te despierta antes del paradero. Viaja y duerme tranquilo hasta tu destino. Con ZZLEEP! escogerás alarmas divertidas, música y sonidos relajantes para la ruta, y lo mejor: Usando Zzleep acumulas Kms Zzleepers que te darán grandes beneficios. ¿Qué esperas? ¡A dormir Zzleeper!</string>
+    <string name="welcome_title">Bienvenido a ZZLEEP!</string>
+    <string name="welcome_hint">Agrega tu número de teléfono para crear una cuenta segura.</string>
+    <string name="labelNext">Siguiente</string>
+
+    <string name="hint_name">Nombre</string>
+    <string name="hint_last_name">Apellidos</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_email">E-mail o Teléfono</string>
+    <string name="hint_password">Password</string>
+    <string name="label_jump">Saltar</string>
+    <string name="facebook_app_id">295817314122790</string>
+    <string name="fb_login_protocol_scheme">fb295817314122790</string>
+
+    <string name="icon_bug">\ue900</string>
+    <string name="icon_chevron_down">\ue903</string>
+    <string name="icon_chevron_left">\ue904</string>
+    <string name="icon_chevron_right">\ue90c</string>
+    <string name="icon_chevron_up">\ue90d</string>
+    <string name="icon_cross">\ue117</string>
+    <string name="icon_check">\ue116</string>
+    <string name="icon_location">\ue070</string>
+    <string name="icon_cloud">\ue067</string>
+    <string name="icon_delete">\ue119</string>
+    <string name="icon_search">\ue036</string>
+    <string name="icon_facebook">\ue902</string>
+    <string name="icon_clock">\ue014</string>
+    <string name="icon_gauge">\ue909</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Este e-mail no es válido</string>
+    <string name="error_invalid_password">Este password es muy corto</string>
+    <string name="error_incorrect_password">Tu contraseña es incorrecta</string>
+    <string name="error_field_required">Por favor completa este campo</string>
+    <string name="permission_rationale">Necesitamos permisos e contactos para poder mostrar ayudas de emails</string>
+    <string name="title_activity_kilometros">KilometrosActivity</string>
+</resources>
